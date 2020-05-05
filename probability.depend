@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588672684 source:e:\academy\code block\probability\main.cpp
+	<iostream>
+	<ctime>
+	<time.h>
+	<cstdlib>
+
